@@ -63,21 +63,21 @@ Next.jsアプリケーションは**技術改善提案を実証するためのMV
 ## プロジェクト構造
 
 ```
-Portfolio_2/
-├── docs/                      # ドキュメント類（メイン成果物）
+📁Portfolio_2/
+├── 📁docs/                      # ドキュメント類（メイン成果物）
 │   ├── TECHNICAL_PROPOSAL.md  # 技術改善提案書（50ページ相当）
 │   └── CLAUDE.md              # ポートフォリオ要件定義書
-├── src/
+├── 📁src/
 │   ├── app/                   # Next.js App Router
-│   ├── components/            # 共通UIコンポーネント
+│   ├── 📁components/            # 共通UIコンポーネント
 │   │   ├── Button.tsx         # Framer Motion対応ボタン
 │   │   ├── Card.tsx           # アニメーション付きカード
 │   │   └── Modal.tsx          # 汎用モーダル
-│   ├── features/              # 機能別モジュール
-│   │   ├── fileUpload/        # ファイルアップロード機能
-│   │   ├── summaryDashboard/  # キャリア分析ダッシュボード
-│   │   └── jobRecommendation/ # 求人推薦システム
-│   └── types/                 # TypeScript型定義
+│   ├── 📁features/              # 機能別モジュール
+│   │   ├── 📁fileUpload/        # ファイルアップロード機能
+│   │   ├── 📁summaryDashboard/  # キャリア分析ダッシュボード
+│   │   └── 📁jobRecommendation/ # 求人推薦システム
+│   └── 📁types/                 # TypeScript型定義
 │       ├── index.ts           # コア型定義
 │       └── jobData.ts         # ダミー求人データ
 └── README.md                  # このファイル
