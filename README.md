@@ -1,4 +1,4 @@
-#  Rin Nakahata's Portfolio_2
+#  Portfolio_2
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.5.2-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.1.6-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
